@@ -1,0 +1,8 @@
+Budget File
+Housing	1750
+Transportation	750
+Food	450
+Education	700
+Entertainment	400
+Shopping	500
+Others	9000

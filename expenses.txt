@@ -1,0 +1,25 @@
+2024-12-14	100.0	others	beauty
+2024-10-01	82.50	Food	Dining Out
+2024-10-02	90.00	Transportation	Fuel
+2024-10-03	75.75	Entertainment	Movie night
+2024-10-04	2000.70	Housing	Rent
+2024-10-05	133.25	Education	Online Course
+2024-10-06	152.50	Shopping	Gadgets
+2024-10-07	855.00	Housing	Utility Bills
+2024-10-08	80.00	Food	Snacks
+2024-10-09	50.00	Food	Groceries
+2024-10-10	43.00	Food	Breakfast
+2024-10-11	29.75	Transportation	Public Transport
+2024-10-12	238.90	Transportation	Car Maintenance
+2024-10-13	151.00	Transportation	Ride-Hailing Services
+2024-10-13	78.35	Education	Books
+2024-10-14	99.15	Education	Supplies
+2024-10-15	75.00	Education	Tuition
+2024-10-16	32.99	Entertainment	Streaming Subscriptions
+2024-10-17	99.99	Entertainment	Concerts
+2024-10-18	94.00	Entertainment	Gaming
+2024-10-19	116.00	Shopping	Clothing
+2024-10-20	119.00	Shopping	Accessories
+2024-12-28	188.0	Education	Pencil
+2024-12-22	457.0	Education	Notebook
+2024-12-25	158.0	Entertainment	Games
